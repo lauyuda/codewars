@@ -1,5 +1,5 @@
 # CodeWars
-This is the GitHub repository where I save copies of the katas I've completed on codewars.com.
+This is the GitHub repository where I save some copies of the katas I have completed on codewars.com.
 
 ![alt text](https://www.codewars.com/users/lauyuda/badges/large)
 
